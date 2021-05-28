@@ -16,13 +16,13 @@ This is the end semester project done for the IOT (Internet of Things) course at
 It should look like this - 
  
 <p align="center">
- <img src="images/map-demo.jpg" width=50%>
+ <img src="images/map_demo.JPG" width=50%>
 </p>
 
 The graph can be seen as follows - 
 
 <p align="center">
- <img src="images/graph-demo.jpg" width=50%>
+ <img src="images/graph_demo.JPG" width=50%>
 </p>
 
 * Finally, you can receive this data from the PythonAnywhere page by running GET.ino which will print out the payload in the serial monitor. It will then connect to your Azure IOT Hub and will send the data to the blob storage you have created. 
@@ -30,6 +30,6 @@ The graph can be seen as follows -
 Your output in Azure will look like the following - 
 
 <p align="center">
- <img src="images/Azure-demo.jpg" width=50%>
+ <img src="images/Azure_demo.JPG" width=50%>
 </p>
 
